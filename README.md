@@ -5,3 +5,5 @@ A 1000 Watt PTC heater with a Noctua 140mm hv fan heats chamber.
 the printer uses LDO high temp stepper motors on all axis.
 A BTT Manta E3EZ controller with a CM4-EMMC operate the printer,
 along with a Rpi Pico-2350 that monitors the chamber temprature sensors.
+A Sprite direct drive extruder with a CR-Touch controls the fillament.
+A Fillament sensor is attached to the top cross member.
